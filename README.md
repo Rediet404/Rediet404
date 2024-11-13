@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rediet404
-- 👀 I’m interested in neuroscience and embeded stuff, also python dev
-- 🌱 I’m currently learning python, neuro science and  fullstack web dev also majoring in software engineering at Addis Ababa University
+- 👀 I’m interested in 
+- 🌱 I’m currently learning pythonand  fullstack web dev also majoring in software engineering at Addis Ababa University
 - 💞️ I’m looking to collaborate on any fun projects 
 - 📫 How to reach me redietmes07@gmail.com
 - 😄 Pronouns: she/her :)
