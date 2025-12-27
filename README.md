@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Rediet</h1>
 <h3 align="center">Backend Developer specializing in Go and Python/FastAPI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rediet404&label=Profile%20views&color=0e75b6&style=flat" alt="rediet404" /> </p>
 
 - 📫 How to reach me **redietmesfin58@gmail.com**
 
