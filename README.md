@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Rediet</h1>
-<h3 align="center">Backend Developer specializing in Go and Python/FastAPI.</h3>
+<h3 align="center">Backend Developer specializing in Go and Python/FastAPI •  React/angular • Currently learning: AWS (Lambda & ECS) and Infrastructure as Code with Terraform </h3>
 
 
 - 📫 How to reach me **redietmesfin58@gmail.com**
