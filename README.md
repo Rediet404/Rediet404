@@ -5,7 +5,7 @@ Backend & Data Engineering focused on scalable systems, APIs, and data pipelines
 </p>
 
 <p align="center">
-Building with Go, Python, FastAPI, PostgreSQL, Docker, and modern cloud tooling.
+Building with Go, Python, fastapi and other tools.
 </p>
 
 ---
